@@ -23,7 +23,7 @@ The data contains 6014 observations on the following 9 variables:
 - Summary statistics of categorical and quantitative variables
 - Outlier detection
 ### Pairwise associations between variables 
-- Chi-squared test for independence
+- Chi-squared test for independence between variables
 ### Logistic Regression
 - Multiple logistic regresission
 - Likelihood Ratio Test (LRT)
